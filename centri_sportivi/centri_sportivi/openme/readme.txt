@@ -1,0 +1,1 @@
+file da importare su phpmyadmin per avere il database pronto
